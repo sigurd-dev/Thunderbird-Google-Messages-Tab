@@ -1,4 +1,4 @@
-# Google Messenger Tab
+# Google Messenges Tab
 Unofficial Google Messages add-on for Thunderbird, it adds a button that opens a Google Messages tab in Thunderbird.
 <!--The [home page](https://addons.thunderbird.net/thunderbird/addon/google-messages-tab) of the extension contains some pictures and reviews.-->
 
