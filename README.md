@@ -14,5 +14,5 @@ In linux the xpi file can be created with the following commands
 * `VERSION=$(cat ./manifest.json | jq --raw-output '.version')`
 * `zip -r "../Google-Messages-Tab-${VERSION}-tb.xpi" *`
 
-This is really just a "rip-off" of the [Google Keep Tab](https://github.com/Garoe/Thunderbird-Google-Keep-Tab)
+This is really just a "rip off" of the [Google Keep Tab](https://github.com/Garoe/Thunderbird-Google-Keep-Tab)
 where links and icon are changed.
