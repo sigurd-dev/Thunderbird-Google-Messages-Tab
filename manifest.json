@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "applications": {
+    "gecko": {
+      "id": "sigurd@dagestad.info",
+      "strict_min_version": "78.0"
+    }
+  },
+  "name": "Google Messages Tab",
+  "description": "__MSG_extensionDescription__",
+  "author": "Sigurd Dagestad",
+  "homepage_url": "https://github.com/sigurd-dev/Thunderbird-Google-Messages-Tab/",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "icons": {
+    "48": "skin/google_messages_icon.svg",
+    "96": "skin/google_messages_icon.svg"
+  },
+  "browser_action": {
+    "default_title": "GM",
+    "default_icon": "skin/google_messages_icon.svg"
+  },
+  "background": {
+    "scripts": [
+      "src/background.js"
+    ]
+  }
+}
