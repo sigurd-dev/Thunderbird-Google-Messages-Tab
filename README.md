@@ -1,6 +1,6 @@
 # Google Messages Tab
 Unofficial Google Messages add-on for Thunderbird, it adds a button that opens a Google Messages tab in Thunderbird.
-The [home page](https://addons.thunderbird.net/thunderbird/addon/google-messages-tab) of the extension contains some pictures and reviews.
+Go to [home page](https://addons.thunderbird.net/thunderbird/addon/google-messages-tab) for download and reviews.
 
 #### Installing 
 Open Thunderbird, go to Tools -> Add-ons -> Extensions, search for Google Messages in the search box and click on "+ Add to Thunderbird".
