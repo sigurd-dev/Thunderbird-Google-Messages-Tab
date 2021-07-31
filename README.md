@@ -1,6 +1,6 @@
 # Google Messages Tab
 Unofficial Google Messages add-on for Thunderbird, it adds a button that opens a Google Messages tab in Thunderbird.
-Go to [home page](https://addons.thunderbird.net/thunderbird/addon/google-messages-tab) for download and reviews.
+Go to [Thunderbird Add-ons page](https://addons.thunderbird.net/thunderbird/addon/google-messages-tab) for download and reviews.
 
 #### Installing 
 Open Thunderbird, go to Tools -> Add-ons -> Extensions, search for Google Messages in the search box and click on "+ Add to Thunderbird".
@@ -14,5 +14,5 @@ In linux the xpi file can be created with the following commands
 * `VERSION=$(cat ./manifest.json | jq --raw-output '.version')`
 * `zip -r "../Google-Messages-Tab-${VERSION}-tb.xpi" *`
 
-This is really just a "rip-off" of the Google Keep Tab https://github.com/Garoe/Thunderbird-Google-Keep-Tab/
+This is really just a "rip-off" of the [Google Keep Tab](https://github.com/Garoe/Thunderbird-Google-Keep-Tab)
 where links and icon are changed.
